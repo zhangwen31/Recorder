@@ -165,7 +165,7 @@ Pod::Spec.new do |s|
 #  s.vendored_framework = "#{s.name}.framework"
 
   # s.library   = "iconv"
-  s.libraries = "bz2", "bz2.1.0", "z", "c++", "c++.1", "iconv",
+  s.libraries = "bz2", "bz2.1.0", "z", "c++", "c++.1", "iconv"
 
 
   # ――― Project Settings 项目设置―――――――――――――――――――――――――――― #
