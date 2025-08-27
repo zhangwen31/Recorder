@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Recorder"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A short description of Recorder."
 
   # This description is used to generate tags and improve search results.
@@ -147,7 +147,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = ['Recorder/Resources/Recorder.bundle','Recorder/Resources/RecorderLanguage.bundle']
+  s.resources = ['Recorder.framework/Recorder.bundle','Recorder.framework/RecorderLanguage.bundle']
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"  #保存路径
 
