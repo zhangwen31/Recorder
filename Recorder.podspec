@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Recorder"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "A short description of Recorder."
 
   # This description is used to generate tags and improve search results.
@@ -160,12 +160,10 @@ Pod::Spec.new do |s|
   #  其名称的lib前缀。
   #
 
-  s.frameworks  = "UIKit", "VideoToolbox", "QuartzCore", "OpenGLES", "MobileCoreServices", "MediaPlayer", "CoreVideo", "CoreMedia", "CoreGraphics", "AVFoundation", "AudioToolbox", "AssetsLibrary", "Foundation"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 #  s.vendored_framework = "#{s.name}.framework"
 
   # s.library   = "iconv"
-  s.libraries = "bz2", "bz2.1.0", "z", "c++", "c++.1", "iconv"
 
 
   # ――― Project Settings 项目设置―――――――――――――――――――――――――――― #
