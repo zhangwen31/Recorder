@@ -4,77 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/RCDRBasicInformationService.h</key>
-		<data>
-		t37oebM3aszZG7Qv9ivVv5/PhNw=
-		</data>
-		<key>Headers/RCDRBatteryInfoModel.h</key>
-		<data>
-		9RmuxQrd8t5DDOSj9Si16gjaqbA=
-		</data>
-		<key>Headers/RCDRCapabilityModel.h</key>
-		<data>
-		Vvc06ucjVCkrOo+ximgRwdM/1wA=
-		</data>
 		<key>Headers/RCDRConfig.h</key>
 		<data>
-		/z6sBE0nN6i6iGXQNyA+TP8AowQ=
-		</data>
-		<key>Headers/RCDRDeviceFileManagerService.h</key>
-		<data>
-		fVGcIoPB/uZV9TFMsMppUwZ2j0Y=
-		</data>
-		<key>Headers/RCDRDeviceFileModel.h</key>
-		<data>
-		f6N8oH7x67sF5aGWJJPFj+0VshY=
-		</data>
-		<key>Headers/RCDRDeviceFolderInfoModel.h</key>
-		<data>
-		3f0KDWYx12+f/rhhP4wwyvWPPVg=
-		</data>
-		<key>Headers/RCDRDeviceInfoModel.h</key>
-		<data>
-		7Xo0v6wkYWddgedN9ADIY1TK4gg=
-		</data>
-		<key>Headers/RCDRDeviceManagementService.h</key>
-		<data>
-		TkXm0BpLiCxDpl/w/WbIK5k05cc=
-		</data>
-		<key>Headers/RCDRMediaInfoModel.h</key>
-		<data>
-		7+tmSR5UeGX6z5AqwluvcIoNnUQ=
-		</data>
-		<key>Headers/RCDRParamItemsConfig.h</key>
-		<data>
-		20PMEpNWOOf5CzZ7KYVpjjhNHpI=
-		</data>
-		<key>Headers/RCDRParamItemsModel.h</key>
-		<data>
-		Q4MNFRfaQ2Qfsvc7g1UvPHWYh4A=
-		</data>
-		<key>Headers/RCDRProductinfoModel.h</key>
-		<data>
-		GSl1VCJdlbPI7Htr580PAbtt1l0=
-		</data>
-		<key>Headers/RCDRRecdurationModel.h</key>
-		<data>
-		O2/HjBuLKmYTvwF5ZDyEs2Ho0uY=
-		</data>
-		<key>Headers/RCDRSDInfoModel.h</key>
-		<data>
-		RPrcDp8n7hRd+vEYkd4I8oi5mfc=
+		YEkZxC8VpeamdkRL/T6p4Tr82vQ=
 		</data>
 		<key>Headers/RCDRTools.h</key>
 		<data>
-		TSFm5FRSFsZ1aWq0RxD2b5lGg74=
+		mo+lYAMNvydUSpbdAoaDBjS0g84=
 		</data>
 		<key>Headers/Recorder.h</key>
 		<data>
-		v/OwNNkchLPkJpaGmACacFCrMTY=
+		G65V5OaiAVnLhhSOQJQkxODAz9w=
 		</data>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
 		<data>
-		ZO4Xu6cIBuvFPSMKgbaUf/PsIg4=
+		8B0zEq8pHcQvZdcvqQ1fG1U7tDc=
 		</data>
 		<key>IQKeyboardManager.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -82,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xdX+czQ0y/Bed7HRS/x9EiNptl4=
+		7z/kZpJEIAgdiXZsiuTplDWpEy0=
 		</data>
 		<key>MJRefresh.Privacy.bundle/Info.plist</key>
 		<data>
-		2Bh04HsjdloPsvTV161cyFHT6Ec=
+		iA/2by3RSYoLd4j+5r5wq1xQJIU=
 		</data>
 		<key>MJRefresh.Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -531,202 +475,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/RCDRBasicInformationService.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t37oebM3aszZG7Qv9ivVv5/PhNw=
-			</data>
-			<key>hash2</key>
-			<data>
-			qVc8BSsvSAHPDrMMPMt7fSURNylIyx/WFwChu3+tO9I=
-			</data>
-		</dict>
-		<key>Headers/RCDRBatteryInfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9RmuxQrd8t5DDOSj9Si16gjaqbA=
-			</data>
-			<key>hash2</key>
-			<data>
-			11kC3wAEpWa9h/8p/izY4guwxYuQyMWrixwkPHp7ql4=
-			</data>
-		</dict>
-		<key>Headers/RCDRCapabilityModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vvc06ucjVCkrOo+ximgRwdM/1wA=
-			</data>
-			<key>hash2</key>
-			<data>
-			xHGx3lTfhXQoaxll/TZBvHpKgMculBro7k7fbHLVptw=
-			</data>
-		</dict>
 		<key>Headers/RCDRConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/z6sBE0nN6i6iGXQNyA+TP8AowQ=
+			YEkZxC8VpeamdkRL/T6p4Tr82vQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwIfGspYJSP6pBGq9D5vPS5nfd1fcgkcnpWItBVWijs=
-			</data>
-		</dict>
-		<key>Headers/RCDRDeviceFileManagerService.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fVGcIoPB/uZV9TFMsMppUwZ2j0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			vWy2oFYjHaLodnVJEH5tpFLYfBIG3ugxl80NK9GbnTw=
-			</data>
-		</dict>
-		<key>Headers/RCDRDeviceFileModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f6N8oH7x67sF5aGWJJPFj+0VshY=
-			</data>
-			<key>hash2</key>
-			<data>
-			l2yzYpSPbr5Tqq150FFYCcIsVIF5UEe8le9YuHUe8Hg=
-			</data>
-		</dict>
-		<key>Headers/RCDRDeviceFolderInfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3f0KDWYx12+f/rhhP4wwyvWPPVg=
-			</data>
-			<key>hash2</key>
-			<data>
-			df1cEMsJKLJgNsSdPaI9zqfUkWPqUqd4Fi7Qk8TKxSU=
-			</data>
-		</dict>
-		<key>Headers/RCDRDeviceInfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7Xo0v6wkYWddgedN9ADIY1TK4gg=
-			</data>
-			<key>hash2</key>
-			<data>
-			fTjo79USWLnQJV29h9kbAdqm5s4if3PCYlrDonxQjs8=
-			</data>
-		</dict>
-		<key>Headers/RCDRDeviceManagementService.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TkXm0BpLiCxDpl/w/WbIK5k05cc=
-			</data>
-			<key>hash2</key>
-			<data>
-			lMESX5FL9g4hPshUcKMNrBvCrxgED/D1lgAKomIG4OI=
-			</data>
-		</dict>
-		<key>Headers/RCDRMediaInfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7+tmSR5UeGX6z5AqwluvcIoNnUQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			lb4nVbuVRb1ZG27MZqxxLHuozvv2TdikZY+N/Ck1bF8=
-			</data>
-		</dict>
-		<key>Headers/RCDRParamItemsConfig.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			20PMEpNWOOf5CzZ7KYVpjjhNHpI=
-			</data>
-			<key>hash2</key>
-			<data>
-			Gxmx+gN2kIYmCKOaaLN8S/d2vHneUabVUON4lbw4Rbc=
-			</data>
-		</dict>
-		<key>Headers/RCDRParamItemsModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q4MNFRfaQ2Qfsvc7g1UvPHWYh4A=
-			</data>
-			<key>hash2</key>
-			<data>
-			QpdRqiY6uPTw+ZRCP3l6y8462iLZeFDfb4cWErEoyio=
-			</data>
-		</dict>
-		<key>Headers/RCDRProductinfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GSl1VCJdlbPI7Htr580PAbtt1l0=
-			</data>
-			<key>hash2</key>
-			<data>
-			pCanvPQV740FI23bmnSzGa6TKY14n2V88vN0WKcAQ9U=
-			</data>
-		</dict>
-		<key>Headers/RCDRRecdurationModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			O2/HjBuLKmYTvwF5ZDyEs2Ho0uY=
-			</data>
-			<key>hash2</key>
-			<data>
-			1T3bG87C/E/Xw/VKSwCCp+tvS5MOHyFB5uvzwGW8UYA=
-			</data>
-		</dict>
-		<key>Headers/RCDRSDInfoModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RPrcDp8n7hRd+vEYkd4I8oi5mfc=
-			</data>
-			<key>hash2</key>
-			<data>
-			aa15b8sJetMwHR/ijPnyD3ONuAPUMh22vbH8Q1vKSWE=
+			UzRF/wySMTXatUqQMuplFNQPOEgzvCuwZgJsX19FXUk=
 			</data>
 		</dict>
 		<key>Headers/RCDRTools.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TSFm5FRSFsZ1aWq0RxD2b5lGg74=
+			mo+lYAMNvydUSpbdAoaDBjS0g84=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmhzMOEeRYu7bb45NJUPLzXE6P1rv4+9ec26d/42iNg=
+			HhG1UpO50SDgLR19ozDwQ6mXfBlZe72AFk2kG9ICULI=
 			</data>
 		</dict>
 		<key>Headers/Recorder.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v/OwNNkchLPkJpaGmACacFCrMTY=
+			G65V5OaiAVnLhhSOQJQkxODAz9w=
 			</data>
 			<key>hash2</key>
 			<data>
-			qHYh0H/wGXUKl8FNwpETuPWDtwH+mEykJGBvfCIHvNU=
+			gZQd18d8rrFf30McMorZk8vRmIvyh+ehKodBFkoNRZ4=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZO4Xu6cIBuvFPSMKgbaUf/PsIg4=
+			8B0zEq8pHcQvZdcvqQ1fG1U7tDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qknw14RVw9kr2f6ljytkCz1pBp7P/8xBBq0fW+sv4Ww=
+			Ust3uvuqY0dwRvIttY6Bhb0HAkaafU6XDMbW4dIE6QA=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/PrivacyInfo.xcprivacy</key>
@@ -744,11 +534,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Bh04HsjdloPsvTV161cyFHT6Ec=
+			iA/2by3RSYoLd4j+5r5wq1xQJIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			PsCIyC1ddX8WZ1oud9Mg5erQu24304YTJ25/cgekBjk=
+			8JnEp1csT6JY4sf7EeBxJMfgwQdBroTiYB6Jt5cAmWE=
 			</data>
 		</dict>
 		<key>MJRefresh.Privacy.bundle/PrivacyInfo.xcprivacy</key>

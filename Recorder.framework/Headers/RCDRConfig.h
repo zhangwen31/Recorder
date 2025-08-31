@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 typedef void (^RCDREmptyResult)(BOOL isSuccess, NSString * _Nullable info);
 
