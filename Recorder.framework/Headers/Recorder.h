@@ -17,3 +17,6 @@ FOUNDATION_EXPORT const unsigned char RecorderVersionString[];
 
 #import <Recorder/RCDRConfig.h>
 #import <Recorder/RCDRTools.h>
+#import <Recorder/RCDRService.h>
+#import <Recorder/RCDRIJKVideoPlayerProtocol.h>
+#import <Recorder/RCDRIJKPlayerNotificationProtocol.h>

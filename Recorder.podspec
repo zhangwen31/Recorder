@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Recorder"
-  s.version      = "1.0.7"
+  s.version      = "2.0.0"
   s.summary      = "A short description of Recorder."
 
   # This description is used to generate tags and improve search results.
@@ -217,7 +217,6 @@ Pod::Spec.new do |s|
   s.dependency 'IQKeyboardManager'
   s.dependency 'SDWebImage'
   s.dependency 'MJRefresh', '~> 3.7.5'
-  s.dependency 'IJKMediaFramework'
   s.dependency 'MobileVLCKit'
 
 end

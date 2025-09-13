@@ -4,9 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		m4QEVgwUjMFRoGptkRgJImi/ZRQ=
+		</data>
 		<key>Headers/RCDRConfig.h</key>
 		<data>
 		YEkZxC8VpeamdkRL/T6p4Tr82vQ=
+		</data>
+		<key>Headers/RCDRIJKPlayerNotificationProtocol.h</key>
+		<data>
+		CB3Hp7i4DrFIq5EPv5yG3+GGURI=
+		</data>
+		<key>Headers/RCDRIJKVideoPlayerProtocol.h</key>
+		<data>
+		ASMyf8x2h16o7jdPcgnV5mH2TlE=
+		</data>
+		<key>Headers/RCDRProtocol.h</key>
+		<data>
+		RhkkNPwovSOKZ5YwocB5Z54wafQ=
+		</data>
+		<key>Headers/RCDRService.h</key>
+		<data>
+		khhzZ7jCe126K1eJeLDkc6qKHh8=
 		</data>
 		<key>Headers/RCDRTools.h</key>
 		<data>
@@ -14,7 +34,7 @@
 		</data>
 		<key>Headers/Recorder.h</key>
 		<data>
-		G65V5OaiAVnLhhSOQJQkxODAz9w=
+		e/6IpBHDO8HW1IEdDBXnJo9ZLl0=
 		</data>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
 		<data>
@@ -472,6 +492,14 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>SDWebImage.bundle/Info.plist</key>
+		<data>
+		GDF79kzYVQf3Yat92NY0S1rw3Ok=
+		</data>
+		<key>SDWebImage.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		PFHYbs0V3eUFDWQyYQcwEetuqEk=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -484,6 +512,50 @@
 			<key>hash2</key>
 			<data>
 			UzRF/wySMTXatUqQMuplFNQPOEgzvCuwZgJsX19FXUk=
+			</data>
+		</dict>
+		<key>Headers/RCDRIJKPlayerNotificationProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CB3Hp7i4DrFIq5EPv5yG3+GGURI=
+			</data>
+			<key>hash2</key>
+			<data>
+			/jZNzLMJJcL9POAObDCSbJvZuOPZkGert3ydHekVmW8=
+			</data>
+		</dict>
+		<key>Headers/RCDRIJKVideoPlayerProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ASMyf8x2h16o7jdPcgnV5mH2TlE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/2hMvvxi3oSiLb2gtKQnEi1s71OyguB1Lm35ml48tvc=
+			</data>
+		</dict>
+		<key>Headers/RCDRProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RhkkNPwovSOKZ5YwocB5Z54wafQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XZwgAC/mJcGR+y9qzF/CxZTY+XjUCzt8ppHIR+C91FE=
+			</data>
+		</dict>
+		<key>Headers/RCDRService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khhzZ7jCe126K1eJeLDkc6qKHh8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lbs9XUT1FP/ArylMklI/lhoqJWUCBbPCfGsDE4Dm2Fc=
 			</data>
 		</dict>
 		<key>Headers/RCDRTools.h</key>
@@ -501,11 +573,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G65V5OaiAVnLhhSOQJQkxODAz9w=
+			e/6IpBHDO8HW1IEdDBXnJo9ZLl0=
 			</data>
 			<key>hash2</key>
 			<data>
-			gZQd18d8rrFf30McMorZk8vRmIvyh+ehKodBFkoNRZ4=
+			5CrRcvsFT3H5IjFFb0opk73XYGRhldB4NGcC/x/IQvI=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
@@ -1656,6 +1728,28 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>SDWebImage.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GDF79kzYVQf3Yat92NY0S1rw3Ok=
+			</data>
+			<key>hash2</key>
+			<data>
+			KK5VHJFNNOLuYRK//9kfsTQgY/rGqWNM5w/opQKD5FE=
+			</data>
+		</dict>
+		<key>SDWebImage.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PFHYbs0V3eUFDWQyYQcwEetuqEk=
+			</data>
+			<key>hash2</key>
+			<data>
+			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
