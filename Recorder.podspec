@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Recorder"
-  s.version      = "2.0.0"
+  s.version      = "2.0.1"
   s.summary      = "A short description of Recorder."
 
   # This description is used to generate tags and improve search results.
@@ -83,10 +83,10 @@ Pod::Spec.new do |s|
   #
 
   #s.platform     = :ios
-  s.platform     = :ios, "13.0"
+  s.platform     = :ios, "12.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = "13.0"
+  s.ios.deployment_target = "12.0"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
@@ -123,11 +123,11 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = ['Recorder.framework']
   s.source_files = 'Recorder.framework/Headers/*h'
   s.pod_target_xcconfig = {
-    "IPHONEOS_DEPLOYMENT_TARGET" => "13.0",
+    "IPHONEOS_DEPLOYMENT_TARGET" => "12.0",
     'VALID_ARCHS' => 'x86_64 armv7 arm64'
   }
   s.user_target_xcconfig = {
-    "IPHONEOS_DEPLOYMENT_TARGET" => "13.0"
+    "IPHONEOS_DEPLOYMENT_TARGET" => "12.0"
   }
   s.static_framework = true
   
