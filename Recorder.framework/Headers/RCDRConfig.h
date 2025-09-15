@@ -13,10 +13,7 @@ typedef void (^RCDREmptyResult)(BOOL isSuccess, NSString * _Nullable info);
 NS_ASSUME_NONNULL_BEGIN
 
 @interface RCDRConfig : NSObject
-/**
- * SDK初始化
- */
-+ (void)setup;
+
 /**
  * 自动跳转行车记录仪界面  push
  * @param isDark 是否是暗黑模式
