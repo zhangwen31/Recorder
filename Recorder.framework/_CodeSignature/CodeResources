@@ -6,11 +6,27 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		kPCQTeDHbBPrrDFb/mKZNjx2D08=
+		NYIOWmDk6vMPv/KV/+6ZbrTJ9jA=
 		</data>
 		<key>Headers/RCDRConfig.h</key>
 		<data>
 		aBM9clnkHnRiUEQ4bpSj01MQYtQ=
+		</data>
+		<key>Headers/RCDRIJKPlayerNotificationProtocol.h</key>
+		<data>
+		CB3Hp7i4DrFIq5EPv5yG3+GGURI=
+		</data>
+		<key>Headers/RCDRIJKVideoPlayerProtocol.h</key>
+		<data>
+		ASMyf8x2h16o7jdPcgnV5mH2TlE=
+		</data>
+		<key>Headers/RCDRProtocol.h</key>
+		<data>
+		RhkkNPwovSOKZ5YwocB5Z54wafQ=
+		</data>
+		<key>Headers/RCDRService.h</key>
+		<data>
+		khhzZ7jCe126K1eJeLDkc6qKHh8=
 		</data>
 		<key>Headers/RCDRTools.h</key>
 		<data>
@@ -496,6 +512,50 @@
 			<key>hash2</key>
 			<data>
 			hJHbJSgpwgUyD71eNA9ArgFhsM5yWt/uHs+lRwgfq5Q=
+			</data>
+		</dict>
+		<key>Headers/RCDRIJKPlayerNotificationProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CB3Hp7i4DrFIq5EPv5yG3+GGURI=
+			</data>
+			<key>hash2</key>
+			<data>
+			/jZNzLMJJcL9POAObDCSbJvZuOPZkGert3ydHekVmW8=
+			</data>
+		</dict>
+		<key>Headers/RCDRIJKVideoPlayerProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ASMyf8x2h16o7jdPcgnV5mH2TlE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/2hMvvxi3oSiLb2gtKQnEi1s71OyguB1Lm35ml48tvc=
+			</data>
+		</dict>
+		<key>Headers/RCDRProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RhkkNPwovSOKZ5YwocB5Z54wafQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XZwgAC/mJcGR+y9qzF/CxZTY+XjUCzt8ppHIR+C91FE=
+			</data>
+		</dict>
+		<key>Headers/RCDRService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khhzZ7jCe126K1eJeLDkc6qKHh8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lbs9XUT1FP/ArylMklI/lhoqJWUCBbPCfGsDE4Dm2Fc=
 			</data>
 		</dict>
 		<key>Headers/RCDRTools.h</key>
